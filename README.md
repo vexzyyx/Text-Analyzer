@@ -1,7 +1,7 @@
 # Text-Analyzer
 This is a tool for analyzing text.
 
-**Analyzations**
+**Analyzations**  
 --Is english (true or false)  
 --Characters amount  
 --Letters amount  
