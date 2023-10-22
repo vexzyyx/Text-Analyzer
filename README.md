@@ -1,5 +1,5 @@
 # Text-Analyzer
-This is a tool for analyzing text.
+This is a tool for analyzing text in python.
 
 **Analyzations**  
 --Is english (true or false)  
